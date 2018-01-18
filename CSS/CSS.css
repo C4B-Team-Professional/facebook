@@ -1,0 +1,58 @@
+.nav{
+    padding-left:60px;
+    padding-right:60px;
+}
+
+.img1{
+   width:20px;
+   height: 20px;
+    vertical-align:text-top;
+}
+
+.img2{
+    width:20px;
+    height: 20px;
+     vertical-align:text-top;
+     padding-left: 5px;
+ }
+
+
+.list1{
+    list-style-type: none;
+}
+.navbar{
+    background-color:#3C5BAA;
+}
+
+.icontop{
+    color: white;
+}
+.icondrop{
+    color: #3C5BAA;
+}
+
+.but{
+    font-size:10px;
+}
+.but1{
+    font-size:10px;
+    padding-right:2px;
+}
+
+#jumb{
+   
+    /* background-image: url("../img/2.jpg");
+    background-repeat:no-repeat;
+    color: white;
+     */
+    /* background-color: black; */
+}
+
+
+.myn{
+    /* padding-top:150px;
+    padding-left: 150px; */
+}
+.bo{
+    /* margin-top:20px; */
+}
